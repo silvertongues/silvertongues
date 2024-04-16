@@ -8,6 +8,6 @@
 
 ### Hello, there! I am Aline 👽
 
-###### - 📚 Information Security - College <b>3/5</b>
-###### - 📝 Learning: Linux, C/C#, Networking, SQL, Pentesting
+###### - 📚 College - Information Security <b>3/5</b>
+###### - 📝 Learning: Linux, C/C++, Networking, SQL, Pentesting
 
